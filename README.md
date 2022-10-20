@@ -4,7 +4,7 @@
 
 ![Banner](assets/banner.jpg)
 
-MyCitadel is a wallet for **bitcoin, digital assets and bitcoin finance (#BiFi) 
+MyCitadel is a wallet for **bitcoin II, digital assets and bitcoin finance (#BiFi) 
 smart contracts**. It is blazingly fast, secure, cross-platform and technically 
 most advanced wallet on the market, being the first wallet allowing taproot
 multisig and locktime-based spending conditions.
