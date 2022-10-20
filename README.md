@@ -1,6 +1,6 @@
 # MyCitadel Desktop
 
-## Bitcoin, Lightning and RGB wallet
+## Bitcoin II, Lightning and RGB wallet
 
 ![Banner](assets/banner.jpg)
 
@@ -94,7 +94,7 @@ as described on <https://rust-lang.org>.
 After that you can compile the latest release with this command:
 
 ```console
-$ cargo install mycitadel-desktop --locked
+$ cargo install mycitadel-desktop2 --locked
 ```
 
 Finally, run the wallet by typing in
